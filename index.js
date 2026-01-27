@@ -1,5 +1,5 @@
 let logUser = function(1){
-    log user: ${username}(1)
+    ${username}(1)
 }
 
 document.getElementById("result").innerHTML = logUser;
