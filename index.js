@@ -1,5 +1,5 @@
-let logUser = function(1){
-    consol.log(1)
+let logUser = function(username){
+    consol.log(`user : ${username}`)
 }
 
 document.getElementById("result").innerHTML = logUser(${username});
