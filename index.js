@@ -2,7 +2,6 @@ let logUser = function(username){
     consol.log(`user : ${username}`)
 }
 
-document.getElementById("result").innerHTML = logUser(${username});
 
 
 //should create a function named logUser that takes one parameter username
