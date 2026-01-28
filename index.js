@@ -1,5 +1,5 @@
 let logUser = function(username){
-    consol.log(`user : ${username}`);
+    console.log(`user : ${username}`);
 }
 
 
