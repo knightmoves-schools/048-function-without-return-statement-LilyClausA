@@ -1,8 +1,8 @@
 let logUser = function(1){
-    ${username}(1)
+    consol.log(1)
 }
 
-document.getElementById("result").innerHTML = logUser;
+document.getElementById("result").innerHTML = logUser(${username});
 
 
 //should create a function named logUser that takes one parameter username
